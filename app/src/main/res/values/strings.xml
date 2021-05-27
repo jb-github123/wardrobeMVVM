@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Wardrobe</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="fab_add_shirt">Add Shirt</string>
+    <string name="fab_shuffle_look">Shuffle Today\'s Look</string>
+    <string name="fab_toggle_favourite">Mark/Un mark Favourite</string>
+    <string name="fab_add_trousers">Add Trousers</string>
+
+    <string name="hint_shirt_look">This is how the shirt looks</string>
+    <string name="hint_trousers_look">This is how the trouser looks</string>
+
+    <string name="hint_take_shirt_picture_camera_permission">Camera Permission is required to take a picture of shirt and add it to your wardrobe!</string>
+    <string name="hint_take_trouser_picture_camera_permission">Camera Permission is required to take a picture of trouser and add it to your wardrobe!</string>
+
+</resources>
